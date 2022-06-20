@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:36e7fea75be45e0e3db06563e10e8aad
+SUMMARY:Trim X - 24 Jun 2021 17:00
+DTSTART;TZID=+00:00:20210624T170000
+DTEND;TZID=+00:00:20210624T180000
+DESCRIPTION:Salon name: Trim X \n\nSalon address:  \n\nSalon phone:  \n\nSalon email: apparsolutions@gmail.com \n\nBooked services:\nBeard Trim: 17:00 ➝ 17:00 - Pablo\nShampoo: 17:00 ➝ 18:00 - Pablo\n\nBooking notes:\nI want a massage .\n\nBooking status: Confirmed
+END:VEVENT
+END:VCALENDAR
